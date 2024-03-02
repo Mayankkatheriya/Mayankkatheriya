@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Cloud Storage Application](https://google-drive-clone-roan.vercel.app/)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Node.js**, **Express.js**, **Mongodb**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://mayankkatheriya.github.io/My_Protfolio/)
 
