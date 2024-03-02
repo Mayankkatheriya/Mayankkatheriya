@@ -60,3 +60,8 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+      # Cleanup step
+      - name: Cleanup
+        run: sudo rm -rf /home/runner/work/Mayankkatheriya/Mayankkatheriya/dist
