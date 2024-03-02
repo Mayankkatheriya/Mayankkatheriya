@@ -64,10 +64,8 @@ jobs:
 
       # Cleanup step
       - name: Cleanup
-        uses: actions/setup-node@v3
-        with:
-          node-version: '14'
         run: |
-          rm -rf /home/runner/work/Mayankkatheriya/Mayankkatheriya/dist
-          mkdir /home/runner/work/Mayankkatheriya/Mayankkatheriya/dist
+          sudo rm -rf /home/runner/work/Mayankkatheriya/Mayankkatheriya/dist
+          sudo mkdir /home/runner/work/Mayankkatheriya/Mayankkatheriya/dist
+        shell: bash
 
