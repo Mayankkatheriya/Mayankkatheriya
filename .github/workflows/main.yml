@@ -62,6 +62,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
-      # Cleanup step
+     # Cleanup step
       - name: Cleanup
-        run: sudo rm -rf /home/runner/work/Mayankkatheriya/Mayankkatheriya/dist
+        run: |
+          rm -rf /home/runner/work/Mayankkatheriya/Mayankkatheriya/dist
+          mkdir /home/runner/work/Mayankkatheriya/Mayankkatheriya/dist
+        shell: bash
