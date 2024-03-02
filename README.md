@@ -64,9 +64,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankkatheriya&show_icons=true&locale=en" alt="mayankkatheriya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayankkatheriya&" alt="mayankkatheriya" /></p>
-
-###
-
-<img src="https://raw.githubusercontent.com/Mayankkatheriya/Mayankkatheriya/output/snake.svg" alt="Snake animation" />
-
-###
