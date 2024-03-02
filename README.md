@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Mayankkatheriya/Mayankkatheriya/assets/128832286/f0641341-b411-4dce-8eeb-caa93860981e)
+![image](https://github.com/Mayankkatheriya/Mayankkatheriya/assets/128832286/3654da18-c5f9-43fa-afca-a6d26d546c0d)
 
 <h1 align="center">Hi 👋, I'm Mayank Gupta</h1>
 <h3 align="center">Full-stack developer passionate about crafting seamless web solutions with expertise in React, JavaScript, and Java. Love tackling challenges and contributing to open source. Let's connect and code! 🚀</h3>
