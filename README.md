@@ -57,6 +57,7 @@
 <a href="https://mui.com/" title="Material UI" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://styled-components.com/" title="Styled Components" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>
 <a href="https://babeljs.io/" title="Babel" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" height="50" /></a>
+<a href="https://postman.com" title="Postman" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="babel" height="50" /></a>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankkatheriya&show_icons=true&locale=en&layout=compact" alt="mayankkatheriya" /></p>
