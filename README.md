@@ -35,7 +35,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="center">  
+<!-- <div align="center">  
 <a href="https://reactjs.org/" title="React" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" title="Bootstrap" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" title="CSS3" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -60,6 +60,10 @@
 <a href="https://styled-components.com/" title="Styled Components" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>
 <a href="https://babeljs.io/" title="Babel" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" height="50" /></a>
 <a href="https://postman.com" title="Postman" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="babel" height="50" /></a>
+</div> -->
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,mongodb,redux,powershell,npm,sass" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,java,nextjs,babel,bash,gitlab,bitbucket,postman,vscode,vite" /><br>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankkatheriya&show_icons=true&locale=en&layout=compact" alt="mayankkatheriya" /></p>
