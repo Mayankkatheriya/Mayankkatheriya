@@ -1,6 +1,8 @@
 ![image](https://github.com/Mayankkatheriya/Mayankkatheriya/assets/128832286/3654da18-c5f9-43fa-afca-a6d26d546c0d)
 
-<h1 align="center">Hi 👋, I'm Mayank Gupta</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mayank+Gupta!;" />
+</h1>
 <h3 align="center">Full-stack developer passionate about crafting seamless web solutions with expertise in React, JavaScript, and Java. Love tackling challenges and contributing to open source. Let's connect and code! 🚀</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
