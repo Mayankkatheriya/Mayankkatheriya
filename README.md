@@ -74,6 +74,6 @@
 ### 🔝 Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=Mayankkatheriya&limit=5&theme=light&combine_all_yearly_contributions=true" />
 
-![snake gif](https://github.com/Mayankkatheriya/Mayankkatheriya/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Mayankkatheriya/Mayankkatheriya/blob/output/github-contribution-grid-snake-dark.svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&color=FF00FF&lines=Thank+you+for+taking+the+time;to+visit+my+Git-Hub+profile.;Your+interest+is+truly;appreciated!.)](https://git.io/typing-svg)
