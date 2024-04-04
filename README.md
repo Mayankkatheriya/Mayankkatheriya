@@ -66,6 +66,8 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,java,nextjs,babel,bash,gitlab,bitbucket,postman,vscode,vite" /><br>
 </div>
 
+![snake gif](https://github.com/Mayankkatheriya/Mayankkatheriya/blob/output/github-contribution-grid-snake-dark.svg)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayankkatheriya&show_icons=true&locale=en&layout=compact" alt="mayankkatheriya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayankkatheriya&show_icons=true&locale=en" alt="mayankkatheriya" /></p>
@@ -74,7 +76,5 @@
 
 ### 🔝 Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=Mayankkatheriya&limit=5&theme=light&combine_all_yearly_contributions=true" />
-
-![snake gif](https://github.com/Mayankkatheriya/Mayankkatheriya/blob/output/github-contribution-grid-snake-dark.svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FFFFalign=center&lines=Thank+you+for+taking+the+time;to+visit+my+Git-Hub+profile.;Your+interest+is+truly;appreciated!.)](https://git.io/typing-svg)
