@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [medium](https://medium.com/@mayankkatheriyamg)
 
-- 💬 Ask me about **javascript, react**
+- 💬 Ask me about **java, javascript, react, node, express, mongoDB**
 
 - 📫 How to reach me **mayankkatheriya4@gmail.com**
 
