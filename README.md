@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **mayankkatheriya4@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://mayankkatheriya.github.io/My_Protfolio/Assets/Mayank%20Resume%202.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/Mayankkatheriya/My_Protfolio/blob/main/Assets/Mayank_Gupta_FullStack.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
